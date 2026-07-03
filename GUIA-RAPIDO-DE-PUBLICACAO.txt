@@ -1,0 +1,7 @@
+1. Extraia este ZIP.
+2. Envie todos os arquivos para a raiz do repositório no GitHub.
+3. Confirme que as pastas docs e backend aparecem na primeira tela do repositório.
+4. GitHub Pages: Settings > Pages > Deploy from a branch > main > /docs > Save.
+5. O site será publicado a partir de docs.
+6. O backend permanece em backend/Code.gs e deve ser implantado no Google Apps Script como Web App; GitHub Pages não executa arquivos .gs.
+7. Não envie a planilha-base ao GitHub público.

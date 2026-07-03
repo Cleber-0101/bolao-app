@@ -1,0 +1,12 @@
+# Base local / backup administrativo: não publicar em repositório público
+BASE_GOOGLE_SHEETS/
+*.xlsx
+*.xls
+*.csv
+*.zip
+
+# Arquivos do sistema e configurações locais
+.DS_Store
+Thumbs.db
+.env
+.env.*
